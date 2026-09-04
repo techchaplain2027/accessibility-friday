@@ -1,5 +1,3 @@
-# accessibility-friday
-Open source contributions for accessibility projects for a barrier-free future
 # Accessibility Friday
 
 **Small contributions. Sustainable practice. Better accessibility.**
